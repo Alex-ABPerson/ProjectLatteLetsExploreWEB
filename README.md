@@ -1,3 +1,4 @@
+# THIS REPO IS OUTDATED - CHECK OUT THE NEW ONE https://github.com/ProjectLatte/Panda
 # Let's Explore Project Latté Website
 
 This is the official GitHub repository for Project Panda (The website portion of Project Latté). 
